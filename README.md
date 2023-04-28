@@ -1,4 +1,4 @@
-Requerimento do Projeto:
+#Requerimento do Projeto:
 A modelagem 3D deve conter no mínimo:
 
 Navegação usando o teclado/mouse permitindo ao usuário visualizar a parte externa e interna do Laboratório;
@@ -23,7 +23,7 @@ Para rodar nosso código que possue as bibliotecas "OpenGL.GL", "OpenGL.GLUT", "
 
 Lembrando que é importante ter um ambiente Python configurado corretamente, com a versão compatível com as bibliotecas que serão utilizadas.
 
-Sobre o funcionamento e interação do código:
+#Sobre o funcionamento e interação do código:
 Este programa cria uma cena 3D usando a biblioteca pyrender e permite que o usuário navegue pela cena usando as teclas W, A, S e D para mover a câmera e o mouse para girar a câmera.
 
 A cena consiste em cinco modelos carregados a partir de arquivos .obj, posicionados e orientados na cena usando matrizes de transformação 4x4.
